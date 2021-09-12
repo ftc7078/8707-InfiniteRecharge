@@ -19,4 +19,10 @@ public final class Constants {
         public static final int Front_left_Spark_ID = 0;
         public static final int Rear_Left_Spark_ID = 2;
     }
+
+    public static final class DriverSettings {
+        public static final int Driver_Stick_Port = 0;      // Configured on TONH
+        public static final int Throttle_Axis = 0;
+        public static final int Steering_Axis = 1;
+    }
 }
